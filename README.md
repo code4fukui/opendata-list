@@ -1,6 +1,6 @@
-# オープンデータまとめ
+# オープンな素材まとめ
 
-## 行政データ
+## 行政オープンデータ
 
 - [福井県オープンデータライブラリ](https://www.pref.fukui.lg.jp/doc/toukei-jouhou/opendata/)
 - [データシティ鯖江](https://data.city.sabae.lg.jp/)
