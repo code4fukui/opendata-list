@@ -2,9 +2,10 @@
 
 ## 画像
 
-- [フリー素材ぱくたそ](https://www.pakutaso.com/) / license: <a href=https://www.pakutaso.com/userpolicy.html>利用規約</a>
+- [フリー素材ぱくたそ](https://www.pakutaso.com/) / license: [利用規約](https://www.pakutaso.com/userpolicy.html)
 - [パブリックドメインQ：著作権フリー画像素材集](https://publicdomainq.net/) / license: CC0
-- [Pixabay](https://pixabay.com/ja/) / license: CC0 / api: <a href=https://github.com/code4fukui/PixabayAPI/>API</a>
+- [Pixabay](https://pixabay.com/ja/) / license: CC0 / api: [API](https://github.com/code4fukui/PixabayAPI/)
+- [FIND/47｜みんなで集め、広めていくフォトアーカイブ。](https://find47.jp/) / license: CC BY
 
 ## アイコン
 
